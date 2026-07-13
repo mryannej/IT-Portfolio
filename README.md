@@ -20,3 +20,4 @@ This repository documents my hands-on labs while pursuing my B.S. in Cybersecuri
 - Windows 11 Help Desk Lab (In Progress)
 - Active Directory Lab (Coming Soon)
 - Networking Lab (Coming Soon)
+- SOC Lab (Complete in Separate Repository)
