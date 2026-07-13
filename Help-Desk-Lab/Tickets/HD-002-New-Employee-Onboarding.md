@@ -48,3 +48,31 @@ The new user successfully logged into Windows and the workstation is ready for e
 - User Verification
 - Principle of Least Privilege
 - Documentation
+
+# HD-002 – New Employee Onboarding
+
+...
+
+## Evidence
+
+### Before Creating the User
+
+![Before](../Screenshots/HD-002-New-Employee-Onboarding/01-Other-Users-Before.png)
+
+---
+
+### User Successfully Created
+
+![User Created](../Screenshots/HD-002-New-Employee-Onboarding/02-User-Created.png)
+
+---
+
+### Account Type Verified
+
+![Standard User](../Screenshots/HD-002-New-Employee-Onboarding/03-Standard-User.png)
+
+---
+
+### User Profile Created
+
+![Profile](../Screenshots/HD-002-New-Employee-Onboarding/04-User-Profile.png)
